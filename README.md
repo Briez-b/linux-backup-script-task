@@ -1,4 +1,3 @@
-<img width="1122" height="272" alt="image" src="https://github.com/user-attachments/assets/776b737c-059d-40d1-8183-a6dae3b82518" />
 TASK:
 
 
@@ -240,6 +239,8 @@ WantedBy=multi-user.target
 
 # Execution
 
-[![[../Pasted image 20260401142907.png]]](https://github.com/Briez-b/linux-backup-script-task/blob/main/Pasted%20image%2020260401142928.png?raw=true)
+<img width="1732" height="956" alt="image" src="https://github.com/user-attachments/assets/f46bf60b-af45-464c-8650-e86fe9dc5081" />
 
+
+<img width="1122" height="272" alt="image" src="https://github.com/user-attachments/assets/1f03f7b4-6e00-406e-a9b9-9f0434eab7c6" />
 
